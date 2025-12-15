@@ -1,4 +1,3 @@
-// Stack.hpp
 #ifndef STACK_HPP
 #define STACK_HPP
 
@@ -17,34 +16,43 @@ public:
     Stack(Stack&& other) noexcept : container_(std::move(other.container_)) {}
 
     Stack& operator=(const Stack& other) {
-        if (this != &other) {
-            container_ = other.container_;
-        }
+        container_ = other.container_;
         return *this;
     }
 
     Stack& operator=(Stack&& other) noexcept {
-        if (this != &other) {
-            container_ = std::move(other.container_);
-        }
+        container_ = std::move(other.container_);
         return *this;
     }
 
-    void push(const T& value) { container_.push_back(value); }
-    void push(T&& value) { container_.push_back(std::move(value)); }
+    void push(const T& value) {
+        container_.push_back(value);
+    }
+
+    void push(T&& value) {
+        container_.push_back(std::move(value));
+    }
 
     void pop() {
         if (!empty()) {
-            container_.size();
+            container_.pop_back();
         }
     }
 
+    T& top() {
+        return container_.back();
+    }
+
     const T& top() const {
-        return *(container_.end() - 1);
+        return container_.back();
     }
 
     bool empty() const {
-        return container_.size() == 0;
+        return container_.empty();
+    }
+
+    size_t size() const {
+        return container_.size();
     }
 };
 
