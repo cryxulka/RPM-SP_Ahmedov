@@ -1,0 +1,25 @@
+jigurda = [0, 9, 2, 3, 3, 4, 5, 3, 2, 1, 8] #создал список из 10 аргументов
+print(jigurda[-2]) #вывод предпоследнего элемента и 2 других
+print(jigurda[5])
+print(jigurda[-4])
+
+jigurda[3] = 'frog' #изменил элемент в определенной позиции
+print(jigurda)
+
+print(jigurda[3:6]) #вывел элемент в орпеделеноой позиции
+
+jigurda.append('lev') #добавил элемент в список
+print(jigurda)
+
+jigurda.insert(7, 'zayac') #добавил элемент в середину списка
+print(jigurda)
+
+print(len(jigurda)) #посчитал количество элементов в списке
+
+jigurda1 = jigurda.copy() #скопировал список
+print(jigurda1)
+
+jigurda[2] = 7 #изменил 1 списоки и сравнил первый со вторым
+jigurda.insert(5, '3')
+print(jigurda)
+print(jigurda1)
