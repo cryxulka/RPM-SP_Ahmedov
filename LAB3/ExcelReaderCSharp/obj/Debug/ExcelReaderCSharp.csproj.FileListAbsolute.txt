@@ -1,0 +1,2 @@
+C:\Users\FoxOS_User\Documents\LAB3\ExcelReaderCSharp\obj\Debug\ExcelReaderCSharp.csproj.AssemblyReference.cache
+C:\Users\FoxOS_User\Documents\LAB3\ExcelReaderCSharp\obj\Debug\ExcelReaderCSharp.csproj.CoreCompileInputs.cache
