@@ -1,0 +1,14 @@
+C:\Users\FoxOS_User\source\repos\Processes\Processes\bin\Debug\net10.0\Processes.exe
+C:\Users\FoxOS_User\source\repos\Processes\Processes\bin\Debug\net10.0\Processes.deps.json
+C:\Users\FoxOS_User\source\repos\Processes\Processes\bin\Debug\net10.0\Processes.runtimeconfig.json
+C:\Users\FoxOS_User\source\repos\Processes\Processes\bin\Debug\net10.0\Processes.dll
+C:\Users\FoxOS_User\source\repos\Processes\Processes\bin\Debug\net10.0\Processes.pdb
+C:\Users\FoxOS_User\source\repos\Processes\Processes\obj\Debug\net10.0\Processes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FoxOS_User\source\repos\Processes\Processes\obj\Debug\net10.0\Processes.AssemblyInfoInputs.cache
+C:\Users\FoxOS_User\source\repos\Processes\Processes\obj\Debug\net10.0\Processes.AssemblyInfo.cs
+C:\Users\FoxOS_User\source\repos\Processes\Processes\obj\Debug\net10.0\Processes.csproj.CoreCompileInputs.cache
+C:\Users\FoxOS_User\source\repos\Processes\Processes\obj\Debug\net10.0\Processes.dll
+C:\Users\FoxOS_User\source\repos\Processes\Processes\obj\Debug\net10.0\refint\Processes.dll
+C:\Users\FoxOS_User\source\repos\Processes\Processes\obj\Debug\net10.0\Processes.pdb
+C:\Users\FoxOS_User\source\repos\Processes\Processes\obj\Debug\net10.0\Processes.genruntimeconfig.cache
+C:\Users\FoxOS_User\source\repos\Processes\Processes\obj\Debug\net10.0\ref\Processes.dll
