@@ -3,3 +3,4 @@
 ГРУППА: 23/ИП-391к  
 
 вот короче все наверное  
+! [MUSYA] (https://github.com/cryxulka/RPM-SP_Ahmedov/blob/main/1d645f5d260254b7ccf4d422190616bb.jpg)
