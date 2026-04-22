@@ -1,0 +1,14 @@
+C:\Users\FoxOS_User\source\repos\NamedPipeServer\NamedPipeClient\bin\Debug\net8.0\NamedPipeClient.exe
+C:\Users\FoxOS_User\source\repos\NamedPipeServer\NamedPipeClient\bin\Debug\net8.0\NamedPipeClient.deps.json
+C:\Users\FoxOS_User\source\repos\NamedPipeServer\NamedPipeClient\bin\Debug\net8.0\NamedPipeClient.runtimeconfig.json
+C:\Users\FoxOS_User\source\repos\NamedPipeServer\NamedPipeClient\bin\Debug\net8.0\NamedPipeClient.dll
+C:\Users\FoxOS_User\source\repos\NamedPipeServer\NamedPipeClient\bin\Debug\net8.0\NamedPipeClient.pdb
+C:\Users\FoxOS_User\source\repos\NamedPipeServer\NamedPipeClient\obj\Debug\net8.0\NamedPipeClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FoxOS_User\source\repos\NamedPipeServer\NamedPipeClient\obj\Debug\net8.0\NamedPipeClient.AssemblyInfoInputs.cache
+C:\Users\FoxOS_User\source\repos\NamedPipeServer\NamedPipeClient\obj\Debug\net8.0\NamedPipeClient.AssemblyInfo.cs
+C:\Users\FoxOS_User\source\repos\NamedPipeServer\NamedPipeClient\obj\Debug\net8.0\NamedPipeClient.csproj.CoreCompileInputs.cache
+C:\Users\FoxOS_User\source\repos\NamedPipeServer\NamedPipeClient\obj\Debug\net8.0\NamedPipeClient.dll
+C:\Users\FoxOS_User\source\repos\NamedPipeServer\NamedPipeClient\obj\Debug\net8.0\refint\NamedPipeClient.dll
+C:\Users\FoxOS_User\source\repos\NamedPipeServer\NamedPipeClient\obj\Debug\net8.0\NamedPipeClient.pdb
+C:\Users\FoxOS_User\source\repos\NamedPipeServer\NamedPipeClient\obj\Debug\net8.0\NamedPipeClient.genruntimeconfig.cache
+C:\Users\FoxOS_User\source\repos\NamedPipeServer\NamedPipeClient\obj\Debug\net8.0\ref\NamedPipeClient.dll
